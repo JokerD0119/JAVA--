@@ -30,3 +30,6 @@ class test2 {
 // 运行命令：java Welcome2
 // 输出结果：Welcome to Java programming!（两行代码的输出合并为一行
 }
+
+
+//git test
